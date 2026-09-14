@@ -33,4 +33,4 @@ i think that's all right now since we still have to find and buy the rest of the
 ELECTRONICS LIST WILL BE SUPPLIED SOON I'M SORRY RAY
 
 
-don't think anyone's gonna find this except for people i explicitly share the link with
+don't think anyone's gonna find this except for people i explicitly share the link with.
