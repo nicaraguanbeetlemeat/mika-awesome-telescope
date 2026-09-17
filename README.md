@@ -20,17 +20,4 @@ f standing for observed frequency, delta (Δ) f is the doppler shift and f₀ is
 
 Building onto what was mentioned earlier, 1420 MHz will be used as f₀, and a different frequency observed will be f. A positive doppler shift (also known as blue-shift) means the object is moving towards us, and a negative shift (red-shift) means away. This is relevant because standard Newtonian physics can't really explain how stars on the outer bounds of the Milky Way (or any spiral galaxy, for that matter) move at roughly the same speed as stars anywhere else in the galaxy. Without dark matter, they should just drift away.
 
-# Parts (will be updated with specifics and more parts)
-Sky Mexico offset satellite dish (∼1 meter diameter)
-The specifics can't be discerned, but it sure is an offset satellite dish.
-
-[Nooelec SAWbird+ H1 Low Noise Amplifier](https://www.nooelec.com/store/sdr/sawbird-h1.html)
-
-TBF (To Be Finalized)
-
-
-i think that's all right now since we still have to find and buy the rest of the electronics and also fiddle around with [sdr++](https://github.com/alexandrerouma/sdrplusplus) we lav yu bye bye
-ELECTRONICS LIST WILL BE SUPPLIED SOON I'M SORRY RAY
-
-
-don't think anyone's gonna find this except for people i explicitly share the link with.
+But, that's all for now, methinks. Parts list (and likely other future additions) will be moved to separate files.
