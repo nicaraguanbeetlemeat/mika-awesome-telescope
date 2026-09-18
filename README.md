@@ -1,5 +1,7 @@
-This readme assumes you are already familiar with the concept of radio astronomy, its basics, and astronomical radio sources; if not, likely because you are one of my friends I shared this with, unfamiliar terms will be hyperlinked with Wikipedia links (if available) to understand the concepts
+# BEFORE ACTUALLY READING
+Until explicitly stated otherwise, likely because observation of our own is not possible yet, all data gathered will be from ONLY the remote-controlled [SALSA telescopes](https://salsa.oso.chalmers.se/) of the Onsala Space Observatory in Sweden. When observation is made possible, the data will be compared with our own when pointing at the same target. How we'll get ours to point at a specific location, who knows.
 
+This readme also assumes you are already familiar with the concept of radio astronomy, its basics, and astronomical radio sources; if not, likely because you are one of my friends I shared this with, unfamiliar terms will be hyperlinked with Wikipedia links (if available) to understand the concepts
 
 # MIKA (named after my friend) 
 Actually starts for **Mi**crowave and **K**inetics **A**strophysics telescope. Microwave because it observes hydrogen and kinetics beacause it watches hydrogen move. I like to give inanimate objects human names.
