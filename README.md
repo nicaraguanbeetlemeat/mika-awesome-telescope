@@ -22,4 +22,4 @@ f standing for observed frequency, delta (Δ) f is the doppler shift and f₀ is
 
 Building onto what was mentioned earlier, 1420 MHz will be used as f₀, and a different frequency observed will be f. A positive doppler shift (also known as blue-shift) means the object is moving towards us, and a negative shift (red-shift) means away. This is relevant because standard Newtonian physics can't really explain how stars on the outer bounds of the Milky Way (or any spiral galaxy, for that matter) move at roughly the same speed as stars anywhere else in the galaxy. Without dark matter, they should just drift away.
 
-But, that's all for now, methinks. Parts list (and likely other future additions) will be moved to separate files.
+But, that's all for now, methinks. Parts list (and likely other future additions) have been moved to separate files.
